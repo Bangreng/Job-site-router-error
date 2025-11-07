@@ -1,6 +1,5 @@
 # GitHub Pages
-
-https://bangreng.github.io/Job-site-router
+https://bangreng.github.io/Job-site-router-error/vacancies/moscow
 
 # React + TypeScript + Vite
 
