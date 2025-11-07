@@ -1,0 +1,50 @@
+.card {
+  opacity: 1;
+  gap: 16px;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.salaryExperience {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.companyInfo {
+  flex-direction: column;
+  gap: 4px;
+}
+
+.workFormat {
+  padding: 4px 6px !important;
+  display: inline-flex;
+  align-self: flex-start;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.buttons {
+  display: flex;
+  gap: 12px;
+}
+
+.workFormatRemote {
+  background-color: #4263EB;
+  color: white !important;
+}
+
+.workFormatOffice {
+  background-color: #0F0F101A;
+  color: #464646 !important;
+}
+
+.workFormatHybrid {
+  background-color: #0F0F10;
+  color: white !important;
+}
+
+.workFormatDefault {
+  background-color: #0F0F101A;
+  color: #0F0F10 !important;
+}
